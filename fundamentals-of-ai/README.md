@@ -1,4 +1,4 @@
-Fundamentals of AI
+# Fundamentals of AI
 
 [![English](https://img.shields.io/badge/Idioma-Inglês-blue)](README.md)
 [![Portuguese](https://img.shields.io/badge/Idioma-Português-brightgreen)](README-BR.md)
@@ -53,8 +53,6 @@ Artificial Intelligence [Section I]
 - **"and use Neural Networks"** → the main learning technique.
 - **"to think like us"** → refers to Deep Learning (inspired by the human brain).
 
----
-
 # II - Machine Learning
 
 Machine Learning (ML) is an area within AI focused on developing algorithms that enable computers to learn from data. Instead of being programmed with rigid rules, machine learning systems automatically adjust their behavior as they are exposed to new information.
@@ -71,8 +69,6 @@ Here, the system works with unlabeled data. The goal is to discover hidden patte
 
 ### V - Reinforcement Learning
 In this scenario, the agent (the system) learns by interacting with the environment, making decisions, and receiving rewards or penalties. The objective is to find a strategy that maximizes rewards over time, such as in training robots or playing games like chess.
-
----
 
 ## Specific and powerful techniques:
 

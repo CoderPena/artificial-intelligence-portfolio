@@ -1,6 +1,6 @@
 # Fundamentals of AI
 
-[![English](https://img.shields.io/badge/Idioma-Inglês-blue)](README.md)
+[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
 [![Portuguese](https://img.shields.io/badge/Idioma-Português-brightgreen)](README-BR.md)
 
 # I - Introduction to Artificial Intelligence

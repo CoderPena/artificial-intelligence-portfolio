@@ -6,7 +6,7 @@
 Bem-vindo! Este é o meu portfólio onde documenta minha jornada e evolução durante meu curso de Inteligência Artificial.
 
 ## 📚 Cursos já concluídos
-- Fundamentos de Inteligência Artificial
+- [Fundamentos de Inteligência Artificial](fundamentals-of-ai/README-BR.md)
 - Programação para Inteligência Artificial
 - Probabilidade e Estatísticas para IA
 - Ciência de Dados - Manipulação de Dados

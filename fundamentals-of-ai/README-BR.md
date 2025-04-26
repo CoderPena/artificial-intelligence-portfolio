@@ -1,4 +1,7 @@
-Fundamentos de IA
+# Fundamentos de IA
+
+[![English](https://img.shields.io/badge/Idioma-Inglês-blue)](README.md)
+[![Português](https://img.shields.io/badge/Idioma-Português-brightgreen)](README-BR.md)
 
 # I - Introdução à Inteligência Artificial
 

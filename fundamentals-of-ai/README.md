@@ -1,5 +1,8 @@
 Fundamentals of AI
 
+[![English](https://img.shields.io/badge/Idioma-Inglês-blue)](README.md)
+[![Portuguese](https://img.shields.io/badge/Idioma-Português-brightgreen)](README-BR.md)
+
 # I - Introduction to Artificial Intelligence
 
 Artificial Intelligence (AI) is one of the main fields of computer science, dedicated to developing systems capable of performing tasks that traditionally required human intelligence. Among these tasks are logical reasoning, learning, sensory perception, decision-making, and solving complex problems. Since its origins, AI has evolved from a predominantly theoretical concept to a practical application, widely disseminated across sectors such as healthcare, mobility, and digital communication.

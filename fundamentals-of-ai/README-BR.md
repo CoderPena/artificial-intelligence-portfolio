@@ -26,12 +26,12 @@ Dentro desse vasto campo, surgiram subáreas especializadas que permitiram avan�
 Inteligência Artificial [Seção I]
    └── Aprendizado de Máquina (AM) [Seção II]
    Tipos de aprendizado:
-      ├── Aprendizado Supervisionado [Seção III]
-      ├── Aprendizado Não Supervisionado [Seção IV]
-      └── Aprendizado por Reforço [Seção V]
+       ├── Aprendizado Supervisionado [Seção III]
+       ├── Aprendizado Não Supervisionado [Seção IV]
+       └── Aprendizado por Reforço [Seção V]
    Técnicas específicas e poderosas:
-      └── Redes Neurais [Seção VI]
-          └── Deep Learning [Seção VII]
+       └── Redes Neurais [Seção VI]
+           └── Deep Learning [Seção VII]
 ```
 
 **Para reforçar:**

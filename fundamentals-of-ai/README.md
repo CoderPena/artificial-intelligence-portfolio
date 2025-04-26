@@ -26,12 +26,12 @@ Within this vast field, specialized subareas have emerged that have enabled impr
 Artificial Intelligence [Section I]
    └── Machile Learning (ML) [Section II]
    Types of learning:
-   ├── Supervised Learning [Section III]
-   ├── Unsupervised Learning [Section IV]
-   └── Reinforcement Learning [Section V]
+       ├── Supervised Learning [Section III]
+       ├── Unsupervised Learning [Section IV]
+       └── Reinforcement Learning [Section V]
    Specific and powerful techniques:
-   └── Neural Networks [Section VI]
-       └── Deep Learning [Section VII]
+       └── Neural Networks [Section VI]
+           └── Deep Learning [Section VII]
 ```
 
 **To reinforce:**

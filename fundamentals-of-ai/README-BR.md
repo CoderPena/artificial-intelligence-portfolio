@@ -54,8 +54,6 @@ Inteligência Artificial [Seção I]
 - **"e usam Redes Neurais"** → a principal técnica de aprendizado.
 - **"para pensar como nós"** → referência ao Deep Learning (inspiração no cérebro humano).
 
----
-
 # II - Aprendizado de Máquina
 
 O Aprendizado de Máquina (Machine Learning - ML) é uma área dentro da IA que se concentra em desenvolver algoritmos que permitem aos computadores aprenderem a partir de dados. Em vez de serem programados com regras rígidas, os sistemas de aprendizado de máquina ajustam seu comportamento automaticamente conforme são expostos a novas informações.
@@ -73,8 +71,6 @@ Aqui, o sistema trabalha com dados sem rótulos. O objetivo é descobrir padrõe
 
 ### V - Aprendizado por Reforço
 Neste cenário, o agente (o sistema) aprende por meio da interação com o ambiente, tomando decisões e recebendo recompensas ou penalidades. O objetivo é encontrar uma estratégia que maximize as recompensas ao longo do tempo, como no treinamento de robôs ou em jogos como xadrez.
-
----
 
 ## Técnicas específicas e poderosas:
 

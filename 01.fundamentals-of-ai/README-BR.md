@@ -92,7 +92,7 @@ Dentro do aprendizado de máquina, existem três principais tipos de aprendizado
 
 ### III - Aprendizado Supervisionado
 Neste tipo de aprendizado, o sistema é treinado utilizando dados que já possuem respostas conhecidas (rótulos). O modelo aprende a mapear entradas para saídas desejadas, como classificar um e-mail como spam ou não spam.
-[![Abrir no Colab](https://img.shields.io/badge/Abrir_no-Colab-blue?logo=google-colab)](https://colab.research.google.com/github/CoderPena/01.artificial-intelligence-portfolio/blob/main/fundamentals-of-ai/1.Iris_Supervised_Learning-BR.ipynb)
+[![Abrir no Colab](https://img.shields.io/badge/Abrir_no-Colab-blue?logo=google-colab)](https://colab.research.google.com/github/CoderPena/artificial-intelligence-portfolio/blob/main/01.fundamentals-of-ai/1.Iris_Supervised_Learning-BR.ipynb)
 
 ### IV - Aprendizado Não Supervisionado
 Aqui, o sistema trabalha com dados sem rótulos. O objetivo é descobrir padrões ou estruturas escondidas nos dados, como agrupar clientes com comportamentos semelhantes sem saber previamente quem são esses grupos.

@@ -1,8 +1,8 @@
-[![Voltar à Home](https://img.shields.io/badge/Home-Start-blue)](../README.md)
+[![Voltar à Home](https://img.shields.io/badge/Home-Start-red)](../README.md)
 # Fundamentals of AI
 
-[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
-[![Portuguese](https://img.shields.io/badge/Idioma-Português-brightgreen)](README-BR.md)
+[![English](https://img.shields.io/badge/Language-English-red)](README.md)
+[![Portuguese](https://img.shields.io/badge/Idioma-Português-blue)](README-BR.md)
 
 # I - Introduction to Artificial Intelligence
 
@@ -64,6 +64,7 @@ Within machine learning, there are three main types of learning, which differ ba
 
 ### III - Supervised Learning
 In this type of learning, the system is trained using data that already has known answers (labels). The model learns to map inputs to desired outputs, such as classifying an email as spam or not spam.
+[![Abrir no Colab](https://img.shields.io/badge/Open_on-Colab-red?logo=google-colab)](https://colab.research.google.com/github/CoderPena/artificial-intelligence-portfolio/blob/main/fundamentals-of-ai/1.Iris_Supervised_Learning-BR.ipynb)
 
 ### IV - Unsupervised Learning
 Here, the system works with unlabeled data. The goal is to discover hidden patterns or structures in the data, such as grouping customers with similar behaviors without previously knowing who these groups are.

@@ -92,7 +92,7 @@ Within machine learning, there are three main types of learning, differentiated 
 
 ### III - Supervised Learning
 In this type of learning, the system is trained using data that already has known answers (labels). The model learns to map inputs to desired outputs, such as classifying an email as spam or not spam.
-[![Open in Colab](https://img.shields.io/badge/Open_in-Colab-blue?logo=google-colab)](https://colab.research.google.com/github/CoderPena/artificial-intelligence-portfolio/blob/main/fundamentals-of-ai/1.Iris_Supervised_Learning.ipynb)
+[![Open in Colab](https://img.shields.io/badge/Open_in-Colab-blue?logo=google-colab)](https://colab.research.google.com/github/CoderPena/artificial-intelligence-portfolio/blob/main/01.fundamentals-of-ai/1.Iris_Supervised_Learning.ipynb)
 
 ### IV - Unsupervised Learning
 Here, the system works with unlabeled data. The goal is to discover hidden patterns or structures in the data, such as grouping customers with similar behaviors without previously knowing who these groups are.

@@ -1,8 +1,8 @@
 [![Voltar à Home](https://img.shields.io/badge/Home-Início-blue)](../README-BR.md)
 # Fundamentos de IA
 
-[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
-[![Portuguese](https://img.shields.io/badge/Idioma-Português-brightgreen)](README-BR.md)
+[![English](https://img.shields.io/badge/Language-English-red)](README.md)
+[![Portuguese](https://img.shields.io/badge/Idioma-Português-blue)](README-BR.md)
 
 # I - Introdução à Inteligência Artificial
 

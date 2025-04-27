@@ -40,7 +40,7 @@ Enfrentar esses desafios é essencial para o desenvolvimento responsável da int
 ### Mapa Conceitual
 Dentro desse vasto campo, surgiram subáreas especializadas que permitiram avanços impressionantes na forma como as máquinas adquirem e utilizam o conhecimento. Para entender melhor como as subáreas da IA se organizam, inicialmente iremos visualizar uma estrutura em camadas, onde cada nível aprofunda e especifica as abordagens de aprendizado. Posteriormente, iremos detalhar cada conceito desta estrutura:
 
-```
+<pre>
 Inteligência Artificial [Seção I]
    └── Aprendizado de Máquina (AM) [Seção II]
        └── Tipos de aprendizado:
@@ -50,7 +50,7 @@ Inteligência Artificial [Seção I]
    └── Técnicas específicas e poderosas:
        └── Redes Neurais [Seção VI]
            └── Deep Learning [Seção VII]
-```
+</pre>
 
 **Para reforçar:**
 - IA é o grande guarda-chuva.

@@ -1,3 +1,4 @@
+[![Voltar à Home](https://img.shields.io/badge/Home-Start-blue)](../README.md)
 # Fundamentals of AI
 
 [![English](https://img.shields.io/badge/Language-English-blue)](README.md)

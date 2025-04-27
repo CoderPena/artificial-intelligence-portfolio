@@ -1,7 +1,7 @@
 # 🎓 Portfolio - Tecnologia em Inteligência Artificial
 
-[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
-[![Portuguese](https://img.shields.io/badge/Idioma-Português-brightgreen)](README-BR.md)
+[![English](https://img.shields.io/badge/Language-English-red)](README.md)
+[![Portuguese](https://img.shields.io/badge/Idioma-Português-blue)](README-BR.md)
 
 Bem-vindo! Este é o meu portfólio onde documenta minha jornada e evolução durante meu curso de Inteligência Artificial.
 

@@ -6,7 +6,7 @@
 Welcome! This is my portfolio where I document my journey and evolution during my Artificial Intelligence degree.
 
 ## 📚 Courses already completed
-- Fundamentals of Artificial Intelligence
+- [Fundamentals of Artificial Intelligence](01.fundamentals-of-ai/README.md)
 - Programming for Artificial Intelligence
 - Probability and Statistics for AI
 - Data Science - Data Manipulation

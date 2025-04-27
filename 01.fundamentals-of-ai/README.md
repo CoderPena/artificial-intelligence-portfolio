@@ -40,7 +40,7 @@ Addressing these challenges is essential for the responsible development of arti
 ### Conceptual Map
 Within this vast field, specialized subareas have emerged, enabling impressive advancements in how machines acquire and use knowledge. To better understand how AI subareas are organized, we will first visualize a layered structure, where each level deepens and specifies learning approaches. Later, we will detail each concept in this structure:
 
-
+<pre>
 Artificial Intelligence [Section I]
    └── Machine Learning (ML) [Section II]
        └── Types of learning:
@@ -50,6 +50,7 @@ Artificial Intelligence [Section I]
    └── Specific and powerful techniques:
        └── Neural Networks [Section VI]
            └── Deep Learning [Section VII]
+</pre>
 
 **To reinforce:**
 - AI is the overarching umbrella.

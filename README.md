@@ -1,7 +1,7 @@
 # 🎓 Portfolio - Artificial Intelligence Technology
 
-[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
-[![Portuguese](https://img.shields.io/badge/Idioma-Português-brightgreen)](README-BR.md)
+[![English](https://img.shields.io/badge/Language-English-red)](README.md)
+[![Portuguese](https://img.shields.io/badge/Idioma-Português-blue)](README-BR.md)
 
 Welcome! This is my portfolio where I document my journey and evolution during my Artificial Intelligence degree.
 
